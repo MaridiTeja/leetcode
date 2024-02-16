@@ -1,3 +1,4 @@
+package Java;
 class Solution {
     public int jump(int[] nums) {
         int n = nums.length,max=0,ans=0,prev=0;

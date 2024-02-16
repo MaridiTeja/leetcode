@@ -1,3 +1,4 @@
+package Java;
 class Solution {
     public int majorityElement(int[] nums) {
         int num = nums[0];

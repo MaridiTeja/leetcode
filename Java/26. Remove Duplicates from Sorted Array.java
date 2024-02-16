@@ -1,3 +1,4 @@
+package Java;
 class Solution {
     public int removeDuplicates(int[] nums) {
         int curr = 0;
